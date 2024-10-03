@@ -1,13 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap")
 
 :root{
     --branco: white;
-    --cor-de-fundo: #00162E;
+    --cor-de-fundo: #584e86;
     --fundo-senha: #00244D;
-    --fundo-texto: #001E40;
+    --fundo-texto: #18d9e7;
     --borda: #0075FF;
-    --roboto: 'Roboto', sans-serif;
-    --roboto-mono: 'Roboto Mono', monospace;
+    --roboto: "Sixtyfour Convergence", sans-serif;
 }
 
 *{
@@ -21,7 +20,7 @@ body{
 }
 
 .titulo-principal{
-    font-family: var(--roboto-mono);
+    font-family: var(--roboto);
     font-size: 32px;
 }
 
